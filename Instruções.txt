@@ -1,0 +1,30 @@
+Qualquer duvida pode me chamar no telegram @eyebl4ck
+
+
+
+
+
+
+-------------------Requisitos:
+Alguma vps para hospedagem do bot. Ou pode usar hospedagem local. Como Termux(android), ou Vs Code(pc).
+
+-------------------Instalação:
+Você tem que ter o PYTHON instalado no seu pc ou celular(android). Abaixo deixarei uma instrução para utilizar no android com o termux.
+
+
+
+-------------------Configuração:
+1- Primeiro de tudo, abra um terminal e execute o comando e entre no diretório desta pasta. Após isso, digite: "pip install -r requirements.txt" (SEM AS ASPAR).
+
+2- Agora abra um editor e entre no arquivo "config.py", e altere as informações que estão pedindo. Em "BOT_TOKEN", coloque o token do seu bot disponibilizado pelo @botfather.
+
+3- Mude os ID's dos admins que poderão fazer alterações no bot.
+
+4- Após fazer as alterações, só iniciar o arquivo "bot.py" (caso esteja no vs code).
+
+Se estiver usando um terminal (ou termux), é só entrar no diretório da pasta (após já ter alterado os arquivos) e digitar: "python bot.py" OU "python3 bot.py" (SEM ASPAS).
+
+IMPORTANTE: NÃO ALTERE NADA ONDE ESTÁ ESCRITO "# Telegram API ID and Hash. This is NOT your bot token and shouldn't be changed."
+
+
+
